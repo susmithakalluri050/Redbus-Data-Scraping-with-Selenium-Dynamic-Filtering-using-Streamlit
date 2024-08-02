@@ -7,7 +7,11 @@
 * TRANSPORTATION
 
 ## SKILL-TAKEAWAY
-* Python scripting,Selenium,Data Collection,Data Management using SQL,Streamlit
+* Python scripting
+* Selenium
+* Data Collection
+* Data Management using SQL
+* Streamlit
   
 ## TECHNOLOGY USED
 * Python 3.9.3
