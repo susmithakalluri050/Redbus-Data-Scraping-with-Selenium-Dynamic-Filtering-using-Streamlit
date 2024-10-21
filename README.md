@@ -40,7 +40,7 @@
 * import datetime
 * from streamlit_option_menu import option_menu
 * from selenium import webdriver
-![output](https://github.com/user-attachments/assets/85ef2cb0-b303-4960-b38e-1f88fb4ae7f2)
+![output](https://github.com/user-attachments/assets/5653b321-05ba-4430-afdf-c6b931d082db)
 
   
   
